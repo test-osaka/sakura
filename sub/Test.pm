@@ -4,7 +4,7 @@ use Exporter();
 @ISA = qw(Exporter);
 @EXPORT = qw(hello bye);
 
-sub hello{
+sub ello{
 print "Hello!!\n";
 }
 
